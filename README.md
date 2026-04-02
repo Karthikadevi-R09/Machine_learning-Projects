@@ -16,6 +16,9 @@ This repository showcases multiple machine learning projects demonstrating data 
 - Achieved ~71% accuracy in classifying content as Movies or TV Shows
 - 📂 [View Project](netflix-project/)
 
+## Dataset Note
+Due to file size, GitHub may not preview the dataset directly. Please download the file or use the raw view.
+
 ## Tech Stack
 - Python
 - Pandas
